@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-30T11:51:42 IST" name="Default suite" finished-at="2024-10-30T11:51:42 IST" duration-ms="646">
+  <suite started-at="2024-11-02T10:25:43 IST" name="Default suite" finished-at="2024-11-02T10:25:43 IST" duration-ms="674">
     <groups>
     </groups>
-    <test started-at="2024-10-30T11:51:42 IST" name="Default test" finished-at="2024-10-30T11:51:42 IST" duration-ms="646">
+    <test started-at="2024-11-02T10:25:43 IST" name="Default test" finished-at="2024-11-02T10:25:43 IST" duration-ms="674">
       <class name="grooming.ReadAllDataFromExcel2">
-        <test-method signature="readMultipleData()[pri:0, instance:grooming.ReadAllDataFromExcel2@68999068]" started-at="2024-10-30T11:51:42 IST" name="readMultipleData" finished-at="2024-10-30T11:51:42 IST" duration-ms="620" status="PASS">
+        <test-method signature="readMultipleData()[pri:0, instance:grooming.ReadAllDataFromExcel2@68999068]" started-at="2024-11-02T10:25:43 IST" name="readMultipleData" finished-at="2024-11-02T10:25:43 IST" duration-ms="645" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readMultipleData -->
